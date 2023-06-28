@@ -1,3 +1,7 @@
+// Author: Fransiskus Agapa
+// 06/27/23
+// Student's assignment rewarding conditional 
+
 let finishTime = 16; // student's input time
 let today = "Wednesday";
 
